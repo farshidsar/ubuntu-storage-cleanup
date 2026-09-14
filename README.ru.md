@@ -43,7 +43,7 @@
 Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ubuntu-storage-cleanup.git
+git clone https://github.com/farshidsar/ubuntu-storage-cleanup.git
 cd ubuntu-storage-cleanup
 ```
 
