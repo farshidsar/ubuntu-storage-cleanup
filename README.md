@@ -43,7 +43,7 @@ A practical Bash utility for reclaiming disk space on Ubuntu by cleaning APT cac
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ubuntu-storage-cleanup.git
+git clone https://github.com/farshidsar/ubuntu-storage-cleanup.git
 cd ubuntu-storage-cleanup
 ```
 
