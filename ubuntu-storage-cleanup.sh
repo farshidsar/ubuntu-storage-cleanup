@@ -94,6 +94,10 @@ find /var/log \
     -empty \
     -delete 2>/dev/null || true
 
+# truncate all old empty log files
+sudo truncate -s 0 /var/log/syslog
+sudo truncate -s 0 /var/log/mail.log
+
 # ------------------------------------------------------------
 # 4. Temporary files
 # Only remove files older than 7 days
